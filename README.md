@@ -18,6 +18,7 @@ An interactive Power BI dashboard analyzing historical trends, team performance,
 
 ---
 
+---
+
 ## 📊 Dashboard Preview
-![FIFA World Cup Dashboard]
-Screenshot 2026-06-23 160429.png
+![FIFA World Cup Dashboard](Screenshot%202026-06-23%20160429.png)
