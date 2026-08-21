@@ -15,3 +15,9 @@ An interactive Power BI dashboard analyzing historical trends, team performance,
 ## 🛠️ Built With
 * **Tool:** Microsoft Power BI
 * **Data:** Historical FIFA World Cup Datasets (1930–2014)
+
+---
+
+## 📊 Dashboard Preview
+![FIFA World Cup Dashboard]
+Screenshot 2026-06-23 160429.png
